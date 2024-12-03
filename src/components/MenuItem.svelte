@@ -51,7 +51,7 @@
   }
 
   .menubar-menu-tooltip {
-    @apply bg-paper-white text-pencil-black border-[1px] border-theme-sky-dark border-b-2 px-2 py-0.5 rounded-md text-sm;
+    @apply bg-paper-white text-pencil-black border-[1px] border-theme-sky-dark border-b-2 px-2 py-0.5 rounded-md text-sm select-none;
 
     animation: fadeIn .1s linear;
     animation-delay: .2s;
